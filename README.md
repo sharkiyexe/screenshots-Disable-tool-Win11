@@ -1,4 +1,4 @@
-# Screen Disable tool
+# Screenshot Disable tool
 ## I made it so you don't have to download a whole app just to turn off/Change screenshot shortcut. 
 
 before you use the tool make sure u download [XShare](https://getsharex.com/) and change the hotkey to win+shift+S :3
